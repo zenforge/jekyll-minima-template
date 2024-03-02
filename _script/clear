@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "Removing cache..."
+rm -rf _site
